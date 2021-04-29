@@ -1,5 +1,5 @@
-function basicFunc() {
-  console.log("basicFunc");
+function basicFuncOne() {
+  console.log("basicFuncones");
 }
 console.log("hello js");
 
